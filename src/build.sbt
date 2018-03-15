@@ -1,4 +1,4 @@
-name := "spark_dbscan_fork"
+name := "spark-dbscan-fork-2.10-1.6.0"
 
 organization := "org.alitouka"
 
